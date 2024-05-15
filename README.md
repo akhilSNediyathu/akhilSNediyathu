@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akhil-s-0029a3292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-s-0029a3292" height="30" width="40" /></a>
 <a href="https://fb.com/akhilsree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhilsree" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@smart_tech_media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@smart_tech_media" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKfRPJvpY-5nvFxY4RnX97A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@smart_tech_media" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akhilsnediyathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilsnediyathu" height="30" width="40" /></a>
 </p>
 
